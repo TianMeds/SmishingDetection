@@ -1,0 +1,16 @@
+{
+  "name": "smishingdetection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "linkify-it": "^4.0.1",
+    "natural": "^6.8.0"
+  }
+}
